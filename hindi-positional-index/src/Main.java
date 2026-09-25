@@ -29,7 +29,7 @@ long startTime = System.currentTimeMillis();
 System.out.println("Documents indexed: " + (docId - 1));
 
 long endTime = System.currentTimeMillis();
-
+                                                                        
 System.out.println(
     "Indexing time: "
     + (endTime - startTime)
